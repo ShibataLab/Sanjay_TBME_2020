@@ -5,10 +5,10 @@ This repository contains the source code for the paper accepted to IEEE Transact
 
 All the code is in matlab and working fine with matlab 2017
 
-To train the model - run Training_of_the_MRD_model
+To train the model - run **Training_of_the_MRD_model**
 Change the hyperparameters accordingly.
 
-To analyse the trained model - run MRD_model_analysis 
+To analyse the trained model - run **MRD_model_analysis** 
 
 
 
