@@ -9,7 +9,7 @@ To analyse the trained model - run MRD_model_analysis
 
 If you find this repository useful, please cite our work as follows:
 
-#####**Citation** 
+#### Citation
 
 If you find this repository useful, please cite our work as follows:
 ```
