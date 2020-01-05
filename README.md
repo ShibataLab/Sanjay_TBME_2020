@@ -1,5 +1,5 @@
-#### Extraction of Nonlinear Synergies for Proportional and Simultaneous Estimation of Finger Kinematics.
-                       Sanjay Kumar Dwivedi  Jimson Ngeo Tomohiro Shibata
+### Extraction of Nonlinear Synergies for Proportional and Simultaneous Estimation of Finger Kinematics.
+          Sanjay Kumar Dwivedi,  Jimson Ngeo and Tomohiro Shibata
 
 This repository contains the source code for the paper accepted to IEEE Transactions on Biomedical Engineering
 
