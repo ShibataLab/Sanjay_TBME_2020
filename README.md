@@ -29,7 +29,7 @@ If you find our work useful, please cite our paper as follows:
 ```
 #### Note 
 This repository contains and extends the code from https://github.com/SheffieldML
-Some of them are as follows:
+Some of the repositories are listed here, 
 ```
 https://github.com/SheffieldML/
 https://github.com/SheffieldML/optimi
@@ -37,5 +37,4 @@ https://github.com/SheffieldML/kern
 https://github.com/SheffieldML/vargplvm
 
 Please visit https://github.com/SheffieldML for further details.
-
 ```
