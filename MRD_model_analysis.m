@@ -1,5 +1,5 @@
 %% load the trained model 
-load('MRD_JS1_Tasks_6.mat')
+load('MRD_S1.mat')
 
 %% Draw ARD weights  (fig 4a in the manuscript )
 % ARD weights bascially let us know the improtance of a latent dimension in
