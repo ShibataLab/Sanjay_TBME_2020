@@ -14,7 +14,7 @@ To analyse the trained model - run **MRD_model_analysis**
 
 #### Citation
 
-If you find this repository useful, please cite our work as follows:
+If you find our work useful, please cite our work as follows:
 ```
 @article{Dwivedi2020,
   title={Extraction of Nonlinear Synergies for Proportional and Simultaneous Estimation of Finger Kinematics.},
@@ -26,4 +26,16 @@ If you find this repository useful, please cite our work as follows:
   year={2020},
   publisher={IEEE}
 }
+```
+#### Note 
+This repository contains and extends the code from https://github.com/SheffieldML
+Some of them are as follows:
+```
+https://github.com/SheffieldML/
+https://github.com/SheffieldML/optimi
+https://github.com/SheffieldML/kern
+https://github.com/SheffieldML/vargplvm
+
+Please visit https://github.com/SheffieldML for further details.
+
 ```
