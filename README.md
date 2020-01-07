@@ -14,7 +14,7 @@ To analyse the trained model - run **MRD_model_analysis**
 
 #### Citation
 
-If you find our work useful, please cite our work as follows:
+If you find our work useful, please cite our paper as follows:
 ```
 @article{Dwivedi2020,
   title={Extraction of Nonlinear Synergies for Proportional and Simultaneous Estimation of Finger Kinematics.},
