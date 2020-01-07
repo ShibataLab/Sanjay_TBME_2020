@@ -29,9 +29,9 @@ If you find our work useful, please cite our paper as follows:
 ```
 #### Note 
 This repository contains and extends the code from https://github.com/SheffieldML
-Some of the repositories are listed here, 
+Some of the repositories are listed here as follows:
 ```
-https://github.com/SheffieldML/
+https://github.com/SheffieldML/GPmat
 https://github.com/SheffieldML/optimi
 https://github.com/SheffieldML/kern
 https://github.com/SheffieldML/vargplvm
