@@ -21,8 +21,8 @@ latentDimPerModel = [8 23]; % initially set to original dimensionality
     for j = 1:7% number of task
         for i = 1:5 %all 5 train trial
             intr = trInd(i);
-            Y_raw = [Y_raw; dsfilt_musAct{intr,j}];
-            Z_raw = [Z_raw; lpfilt_trc_p23rot{intr,j}];
+            Y_raw = [Y_raw; MUSCLE_ACTIVATION{intr,j}];
+            Z_raw = [Z_raw; FINGER_KINEMATICS{intr,j}];
         end
     end
     
@@ -232,4 +232,4 @@ size(Y_ds_ts_2)
                 %fprintf(1,'# Saving %s\n',fileToSave);     %%%save
         end 
 %% save the model 
-%save('MRD_S5.mat');
+save('MRD_S5.mat');
