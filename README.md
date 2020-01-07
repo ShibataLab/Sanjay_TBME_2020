@@ -28,7 +28,7 @@ If you find our work useful, please cite our paper as follows:
 }
 ```
 #### Note 
-This repository contains and extends the code from https://github.com/SheffieldML
+This repository contains and extends the code from Sheffield machine learning group https://github.com/SheffieldML.
 Some of the repositories are listed here as follows:
 ```
 https://github.com/SheffieldML/GPmat
